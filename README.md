@@ -1,7 +1,7 @@
 ### JavaScript Algorithms and Data Structures
-![image](https://user-images.githubusercontent.com/58232633/154852237-237374b7-1d20-4081-bcaa-5d833bb9c76a.png)
-### Things I Learned
+![kisspng-product-design-logo-brand-trademark-reporting-tool-for-javascript-and-html5-component-5b7c789a35b3b3 91734433153488399422](https://user-images.githubusercontent.com/58232633/154852379-62cc097b-b10f-46d3-93e6-e4d0a4fcf10a.png)
 
+### Things I Learned
 - [Basic JavaScript](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20JavaScript)
 - [Es6](#)
 - [Regular Expressions](#)
