@@ -1,6 +1,5 @@
 ### JavaScript Algorithms and Data Structures
-https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png
-
+![image](https://user-images.githubusercontent.com/58232633/154852237-237374b7-1d20-4081-bcaa-5d833bb9c76a.png)
 ### Things I Learned
 
 - [Basic JavaScript](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20JavaScript)
