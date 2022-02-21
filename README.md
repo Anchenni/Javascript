@@ -4,7 +4,7 @@
 ### Things I Learned
 - [Basic JavaScript](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20JavaScript)
 - [Es6](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/ES6)
-- [Regular Expressions](#)
+- [Regular Expressions](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Regular%20Expressions)
 - [Debugging](#)
 - [Basic Data Structures](#)
 - [Basic Algorithm Scripting](#)
