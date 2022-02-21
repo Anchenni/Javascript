@@ -21,4 +21,5 @@ function golfScore(par, strokes) {
 }
 
 // Change these values to test
-golfScore(5, 4);
+console.log(golfScore(5, 4));
+document.write(golfScore(5, 4));
