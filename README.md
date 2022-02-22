@@ -7,7 +7,7 @@
 - [Regular Expressions](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Regular%20Expressions)
 - [Debugging](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Debugging)
 - [Basic Data Structures](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20Data%20Structures)
-- [Basic Algorithm Scripting](#)
+- [Basic Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20Algorithm%20Scripting)
 - [Object Oriented Programming](#)
 - [Functional Programming](#)
 - [Intermediate Algorithm Scripting](#)
