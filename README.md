@@ -9,6 +9,6 @@
 - [Basic Data Structures](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20Data%20Structures)
 - [Basic Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20Algorithm%20Scripting)
 - [Object Oriented Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Object%20Oriented%20Programming)
-- [Functional Programming](#)
+- [Functional Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Functional%20Programming)
 - [Intermediate Algorithm Scripting](#)
 - [JavaScript Algorithms & Data Structures](#)
