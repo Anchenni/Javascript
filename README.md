@@ -10,5 +10,5 @@
 - [Basic Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Basic%20Algorithm%20Scripting)
 - [Object Oriented Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Object%20Oriented%20Programming)
 - [Functional Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Functional%20Programming)
-- [Intermediate Algorithm Scripting](#)
+- [Intermediate Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Intermediate%20Algorithm%20Scripting)
 - [JavaScript Algorithms & Data Structures](#)
