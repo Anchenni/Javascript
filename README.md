@@ -11,4 +11,4 @@
 - [Object Oriented Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Object%20Oriented%20Programming)
 - [Functional Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Functional%20Programming)
 - [Intermediate Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Intermediate%20Algorithm%20Scripting)
-- [JavaScript Algorithms & Data Structures](#)
+- [JavaScript Algorithms & Data Structures](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
