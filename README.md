@@ -12,3 +12,5 @@
 - [Functional Programming](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Functional%20Programming)
 - [Intermediate Algorithm Scripting](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/Intermediate%20Algorithm%20Scripting)
 - [JavaScript Algorithms & Data Structures](https://github.com/Anchenni/Javascript/tree/master/FreeCodeCamp/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
+
+<img width="922" alt="Screenshot 2022-03-05 at 04 10 38" src="https://user-images.githubusercontent.com/58232633/156865568-74a54159-faf6-4512-91f2-e56be33035e4.png">
